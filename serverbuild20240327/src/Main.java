@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("김우진");
         System.out.println("하나");
+        System.out.println("둘");
     }
 }
